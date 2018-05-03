@@ -1,0 +1,33 @@
+## this is a comment ü
+
+name: John
+
+names:
+    - Paul
+    - John
+    - Ringo
+
+pound_sign: "#"
+
+book:
+    author: Honjn ss
+    publisher: aaa
+
+
+truth: yes #yes , True , true --> all map to true.
+
+lie: no #no,False,false --> all map to false.
+
+string_val: "This is a quote text' example"
+
+colon_string: "This is a colon: string,val,vll"
+
+include_new_lines: |
+    dsadasdasdsada
+    dasdasdada
+    dasdasdas
+
+ignore_new_lines: >
+    dsadas
+    dsadas
+    dsadas

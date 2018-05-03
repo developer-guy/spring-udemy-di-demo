@@ -1,0 +1,14 @@
+spring:
+  profiles: default
+guru:
+  jms:
+    username: jms.username.by.default
+    password: 1234.by.default
+    url: amazon.jms.service
+---
+spring:
+    profiles: de
+guru:
+  jms:
+    username: batu**german**profile
+
